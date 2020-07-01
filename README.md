@@ -7,7 +7,7 @@ Then it is applied an ETL using Python and the data final data is visualized usi
 
 Here we can find the architecture of the solution:
 
- ![Alt text](./../../../../Imágenes/arquitectura.png?raw=true "Title") 
+ ![Alt text](./images/arquitectura.png?raw=true "Title") 
 
 
 ### Expected Results:
@@ -16,7 +16,7 @@ The user of the script can select a country to visualized the top data jobs or b
 
 We found and example of the top data jobs worldwide.
 
- ![Alt text](./../../../../Imágenes/Datos.png?raw=true "Title") 
+ ![Alt text](./images/Datos.png?raw=true "Title") 
  
 
 
